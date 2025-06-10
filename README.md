@@ -1,3 +1,4 @@
 # GithHub-Demo
 This is my first GIT
-Authir - Vedant Jadhav
+<br>
+Author - Vedant Jadhav
